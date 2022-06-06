@@ -35,4 +35,4 @@ For this first version, the effect can be displayed on hovering instead of click
 
 The link to view the page is:
 
-https://alexis564.github.io/ohmyfoodapp/
+https://alexis564.github.io/ohmyfoodp3/
