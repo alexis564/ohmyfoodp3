@@ -135,7 +135,7 @@ header {
   }
   .card:hover .meal-price {
     transform: translatex(-55px);
-    transition: transform .5s ease-in;
+    transition: transform .5s;
   }
   .meal-title-2 {
     display: flex;
