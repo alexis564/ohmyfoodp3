@@ -1,0 +1,16 @@
+@keyframes spinner {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  @keyframes fade {
+    from { opacity: 0}
+    to {opacity: 1;}
+}
+@keyframes slide_up {
+    0% {
+        transform: translateY(50px);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
